@@ -1,0 +1,36 @@
+#pragma once
+
+//Map and Screen Sizes
+#define SCREEN_WIDTH 512
+#define SCREEN_HEIGHT 416
+
+#define MAP_HEIGHT 13
+#define MAP_WIDTH 17
+#define TILE_WIDTH 32
+#define TILE_HEIGHT 32
+
+#define MUSIC_TIMER 20000.0f
+#define START_TIMER 22000.0f
+
+//Player Consts
+#define MOVEMENT_SPEED 0.02
+#define MOVEMENT_ACCELERATION_R 200.0f
+#define MOVEMENT_ACCELERATION_L -200.0f
+#define MAX_SPEED 90.0f
+
+#define GRAVITY 96.0f
+#define JUMP_FORCE_DECREMENT 400.0f
+#define INITIAL_JUMP_FORCE 400.0f
+#define INITIAL_JUMP_FORCE_SMALL 100.0f
+#define COLLISION_STRENGTH 2.5f
+
+#define PLAYER_ANIM_TIME 0.05f
+#define ANIM_DELAY 0.15f
+
+//Enemy Consts
+#define INJURED_TIME 2.5f
+#define ENEMY_SPEED 0.02f
+#define ENEMY_TIME 20000.0f
+
+
+#define SCREENSHAKE_DURATION 0.25f

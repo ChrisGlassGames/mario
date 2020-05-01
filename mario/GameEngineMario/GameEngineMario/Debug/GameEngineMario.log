@@ -1,0 +1,7 @@
+﻿  GameScreenLevel1.cpp
+F:\Downloads\mario\mario\GameEngineMario\GameEngineMario\GameScreenLevel1.cpp(58,23): warning C4150: deletion of pointer to incomplete type '_Mix_Music'; no destructor called
+F:\Downloads\mario\mario\GameEngineMario\GameEngineMario\SDL\mixer_include\SDL_mixer.h(131): message : see declaration of '_Mix_Music'
+F:\Downloads\mario\mario\GameEngineMario\GameEngineMario\GameScreenLevel1.cpp(61,25): warning C4150: deletion of pointer to incomplete type '_Mix_Music'; no destructor called
+F:\Downloads\mario\mario\GameEngineMario\GameEngineMario\SDL\mixer_include\SDL_mixer.h(131): message : see declaration of '_Mix_Music'
+F:\Downloads\mario\mario\GameEngineMario\GameEngineMario\GameScreenLevel1.cpp(342): warning C4715: 'GameScreenLevel1::SetUpLevel': not all control paths return a value
+  GameEngineMario.vcxproj -> F:\Downloads\mario\mario\GameEngineMario\Debug\GameEngineMario.exe
